@@ -1,0 +1,17 @@
+A digital identity will have static and dynamic relationships to other identities, things, services and data, that should be 
+defined by clear interfaces, modularity and cohesion
+ 
+A modern identity and access management system, should make provision for leveraging relationship data between different entities. 
+The term "graph relationships" could be used for this purpose, where the relationship meta-data is separate from the entities 
+themselves, providing a more modular and scaleable data set.  The "social graph" could be an example of this.
+
+Treating relationships as "first class citizens" free's the identity object from having to manage and host all of the 
+multi-directional links that will exist between the various different actors in the service landscape. Data traversal 
+becomes more dynamic and each component more modular and less tightly coupled, making updates and replacements to the 
+interactions simpler.
+ 
+The three main identity actors here are users, devices and API's. All separately maintained and provisioned.  
+The relationship links - based on adjectives - are simply consumes, owns and shares.  A user will share data with another user.  
+A user will consume data from an API. A user will own a device.  Each relationship can be an object in their own right, 
+with provisioning and deprovisioning functions.  Each relationship is likely to also have other meta data such as time 
+stamping, ownership and expiration.
