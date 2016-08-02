@@ -1,0 +1,18 @@
+A digital identity can be made up of multiple attributes from different sources, but must contain at least one unique attribute for 
+each specific domain the identity operates in
+ 
+An identity is more than just a single attribute and password.  It will bring together data from a multitude of different sources, 
+either to create a single value based meta-object, or an object with references and links to other data sources.  Those sources could be 
+static - like profile stores or preferences databases - right through to more dynamic information such as risk profiles, usage or 
+purchase history.
+ 
+Data can be correlated using single or multiple attributes to provide run time or static links and references.  How that data is 
+stored is down to the specific implementation, but the standard rules of confidentiality, integrity and availability should apply. 
+ 
+Data where possible should not be repeated or synchronised unnecessarily.  
+ 
+It is likely the core identity will contain "just-enough-information-to-authenticate", with references made to external systems 
+via pointers where necessary for other functions such as authorization and analytics.
+ 
+That additional information, above and beyond being to able to authenticate the identity, can be leveraged at authorization time 
+to make more informed decisions and deliver a more personalised user experience. 
