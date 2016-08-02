@@ -1,0 +1,35 @@
+#1. A Digital Identity As Currency
+A digital identity is a valuable object and should be treated like currency that can be applied to a person, a physical object or a piece of data
+ 
+#2. A Container for Multiple Attributes
+A digital identity can be made up of multiple attributes from different sources, but must contain at least one unique attribute for each specific domain the identity operates in
+ 
+#3. Cohesive, Modular Relationships
+A digital identity will have static and dynamic relationships to other identities, things, services and data, which should be defined by clear interfaces, that are modul and cohesive
+ 
+#4. The "Coincidence of Wants"
+There should always be an economic "coincidence of wants" with respect to the providing of identity attribute data to a service provider, API or application
+ 
+#5. Consistency of Systems
+An identity authentication or authorization system must operate consistently for different users, devices and contexts
+ 
+#6. Persona Representation
+An identity can be represented by many different personas, where a persona is a collection or subset of attributes, bound to a single identity by a shared attribute, with a persona potentially represented by a device
+ 
+#7. Identity Data Ownership
+An identity must have a data owner, with that owner having full control of what attributes it discloses to other services, with an explicit ability to revoke previously disclosed attribute data, whilst also knowing which systems currently hold identity data
+ 
+#8. Identity Data Custodianship
+An identity can have an attribute custodian and that custodian must uphold the confidentiality, integrity and availability of the data at all times
+ 
+#9. Broad Spectrum Analysis
+An identity authentication or authorization system should make decisions based on data other than that of the identity
+ 
+#10. Transparent Implicit Sharing
+Implicit sharing of identity attribute data, must be transparent to the data owner  - If A shares to B, B cannot share to C without transparency to A.
+ 
+#11. A Right (or not) to be Forgotton
+Before an identity is created, transparency surrounding a right (or not) to be forgotten must be made to the identity data owner
+ 
+#12. Modern Open Standards
+An identity authentication, authorization or storage system must be based on modern open standards wherever possible
