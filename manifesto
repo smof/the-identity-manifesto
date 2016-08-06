@@ -11,7 +11,7 @@ A digital identity will have static and dynamic relationships to other identitie
 by clear interfaces, that are modular and cohesive
  
 #4. The "Coincidence of Wants"
-There should always be an economic "coincidence of wants" with respect to the providing of identity attribute data to a service provider, 
+There must always be an economic "coincidence of wants" with respect to the providing of identity attribute data to a service provider, 
 API or application
  
 #5. Consistency of Systems
