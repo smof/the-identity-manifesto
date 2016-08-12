@@ -24,5 +24,7 @@ JSON Web Signatures - https://tools.ietf.org/html/rfc7515
 JSON Web Encryption - http://www.rfc-editor.org/info/rfc7516
 HMAC OTP - https://tools.ietf.org/html/rfc4226
 Time-based OTP - https://tools.ietf.org/html/rfc4226
+FIDO - https://fidoalliance.org/
+XACML - http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html
 
 A modern standard, does not necessarily apply to age, more recent community engagement and activity
