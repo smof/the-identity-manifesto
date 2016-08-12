@@ -1,5 +1,7 @@
 A Right (or not) to be Forgotton
  
+Description:
+
 Before an identity is created, transparency surrounding a right (or not) to be forgotten must be made to the identity data owner
  
 Not all services will provide a right to be forgotton.  Before an identity profile is created within a target system, there must 
@@ -8,3 +10,5 @@ forgotten.
  
 This should include, but be not limited to, items such as what data will be kept and removed, the time taken to remove any data, 
 the type and form of any data that will be kept and for how long.	
+
+Example:

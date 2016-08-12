@@ -1,5 +1,7 @@
 Modern Open Standards
  
+Description:
+
 An identity authentication, authorization or storage system must be based on modern open standards wherever possible
  
 Identity and access management systems are complex.  They contain a multitude of specialist actors, protocols, transfer, 
@@ -8,8 +10,10 @@ storage and exchange mechanisms that should not be built from the ground up wher
 The same criteria for building encryption and hashing systems should also be extended to identity and access management infrastructures.  
 The protocols designed for the registration, authentication and authorization of identity data are mature, well designed, 
 documented and supported.
+
+Example:
  
-Examples of some identity standards that are applicable in this space include (but is not limited to):
+Some identity standards that are applicable in this space include (but is not limited to):
  
 OAuth2 - https://tools.ietf.org/html/rfc6749
 OpenID Connect - http://openid.net/specs/openid-connect-core-1_0.html

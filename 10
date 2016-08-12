@@ -1,5 +1,7 @@
 Transparent Implicit Sharing
  
+Description:
+
 Implicit sharing of identity attribute data, must be transparent to the data owner  - If A shares to B, B can't share to C without 
 transparency to A.
  
@@ -7,6 +9,8 @@ Identity data is vast, sprawling multiple containers, personas, custodians and c
 often opaque array of interactions.
  
 Sharing mechanisms for identity data must contain transparency and consent as their core values.
+
+Example:
  
 If user A shares identity information to service provider B, service provider B, must provide transparency if they intend to 
 share that data again and also gain approval via a consent framework.  Identity data must not become orphaned within a system - 
